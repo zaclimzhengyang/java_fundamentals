@@ -1,4 +1,4 @@
-package CodingExercises;
+package MethodOverload;
 
 public class MethodOverload_EqualityPrinter {
 	    // write your code here

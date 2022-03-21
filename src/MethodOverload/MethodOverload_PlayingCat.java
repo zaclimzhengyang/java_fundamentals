@@ -1,4 +1,4 @@
-package CodingExercises;
+package MethodOverload;
 
 public class MethodOverload_PlayingCat {
 	public static boolean isCatPlaying(boolean summer, int temperature) {
